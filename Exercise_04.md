@@ -31,7 +31,8 @@ select airport.name, screen_name
 from airport left join game on airport.ident = game.location
 where airport.name like "%Hels%";
 
-![Q 4](https://github.com/user-attachments/assets/7de46473-0a1c-4652-8567-f9ecee852f29)
+![Question 4](https://github.com/user-attachments/assets/d338fcf9-39c8-4935-a7da-2b60628d6c94)
+
 
 ## Question 5
 ### List the names of all weather goals and the names of any players that have so far achieved the listed goals.
