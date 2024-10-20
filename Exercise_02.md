@@ -68,7 +68,8 @@ SELECT co2_consumed
 FROM game 
 WHERE screen_name = "Ilkka";
 
-![Exercise 2 Q8](https://github.com/user-attachments/assets/a2e8e9d8-62fd-41d5-95d9-d061ea9521f5)
+![Ex2 Question 8](https://github.com/user-attachments/assets/7a6e43d0-fec5-43f8-8428-6f99d3cfd50b)
+
 
 ## Question 9
 ### What is the original CO2 budget? Print out the CO2 budget value only once.
