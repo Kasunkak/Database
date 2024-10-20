@@ -32,7 +32,8 @@ FROM airports
 WHERE country_code = 'FI'
 ORDER BY type, name;
 
-![Exercise 2 Q4](https://github.com/user-attachments/assets/0bd47a99-c37f-43e8-95c2-ecaef7bcfa29)
+![Ex2 Question 4](https://github.com/user-attachments/assets/f781062b-6d55-4b68-bb24-198526413af4)
+
 
 ## Question 5
 ### Write a query that prints out the names of all countries that start with the letter F from the country table.
