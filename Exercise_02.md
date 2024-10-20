@@ -59,7 +59,8 @@ SELECT location
 FROM game 
 WHERE screen_name = "Vesa";
 
-![Exercise Q7](https://github.com/user-attachments/assets/7de5b4d8-a11c-4abd-8acc-6ba5dd10c107)
+![Ex2 Question 7](https://github.com/user-attachments/assets/266022e0-24ac-4050-b8b9-fd7f3f2a36eb)
+
 
 ## Question 8
 ### How much of his CO2 budget has Ilkka consumed? 
