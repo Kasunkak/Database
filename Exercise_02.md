@@ -77,7 +77,8 @@ SELECT co2_budget
 FROM game 
 LIMIT 1;
 
-![Exercise 2 Q9](https://github.com/user-attachments/assets/1e6c16ce-0acf-4bd1-9e60-e853888d7a76)
+![Ex2 Question 9](https://github.com/user-attachments/assets/a9b8f5f2-0cc5-4c1a-8f11-23e7e7a6044a)
+
 
 ## Question 10
 ### How much of his CO2 budget does Ilkka have left? Complete the query so that the result includes the following fields: screen_name, co2_budget, co2_consumed and co2_left.
