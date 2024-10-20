@@ -50,7 +50,8 @@ SELECT name
 FROM country
 WHERE name LIKE '%F%';
 
-![Exercise 2 Q6](https://github.com/user-attachments/assets/eecfb75d-21e5-4c63-bb8c-ced68266fd2c)
+![Ex2 Question 6](https://github.com/user-attachments/assets/2cab9d78-073c-4ea4-b127-759873546cf5)
+
 
 ## Question 7
 ### What is Vesa's current location? 
