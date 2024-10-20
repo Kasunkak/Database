@@ -22,7 +22,8 @@ FROM airports
 WHERE country_code = 'FI'
 ORDER BY name ASC;
 
-![Exercise2 Q3](https://github.com/user-attachments/assets/f2920d1a-139a-442e-92f0-22cffa9143fa)
+![Ex2 Question 3](https://github.com/user-attachments/assets/2a2ca44d-5a0c-45ef-8fbe-945abe4f8bd8)
+
 
 ## Question 4
 ### Write a query that prints out the name and type of each Finnish airport. Order the result first by type and secondly by name.
