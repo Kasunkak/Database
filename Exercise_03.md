@@ -67,7 +67,7 @@ where location = ident and airport.iso_country = country.iso_country and screen_
 ### List the weather condition goals Heini as achieved so far.
 select name from goal, game, goal_reached where game.id=game_id and goal.id=goal_id and screen_name="Heini";
 
-![Q9](https://github.com/user-attachments/assets/2e688883-30f4-4fc9-bb9f-ebd282ccd84d)
+
 
 ## Question 9
 ### Print out the name of the airport where Ilkka achieved the clouds weather goal. 
