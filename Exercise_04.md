@@ -13,7 +13,8 @@ and airport.scheduled_service="yes";
 select screen_name, airport.name
 from game inner join airport on game.location = airport.ident;
 
-![Q 2](https://github.com/user-attachments/assets/3b443940-325c-4e97-b228-7a497f8eb479)
+![Question 2](https://github.com/user-attachments/assets/9e7aef7a-e610-4d5b-83f2-b717ce893213)
+
 
 ## Question 3
 ### List the names and current countries of all players.
