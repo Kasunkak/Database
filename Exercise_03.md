@@ -24,7 +24,8 @@ select country.name as "country_name", airport.name as "airport_name"
 from airport, country
 where airport.iso_country = country.iso_country and country.continent = "AN";
 
-![Q3](https://github.com/user-attachments/assets/55c458b9-7ba0-4ba7-b98a-ba74b177c1ac)
+![Ex 3 Question 3](https://github.com/user-attachments/assets/4a3dfa30-ca02-4554-82bb-9160eecaec77)
+
 
 ## Question 4
 ### What is the height of Heini's current location measured from the sea level?
