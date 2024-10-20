@@ -85,4 +85,5 @@ from country, game, goal, goal_reached, airport
 where airport.iso_country = country.iso_country and ident=location AND
 game_id=game.id AND goal_id=goal.id and screen_name = "Ilkka" and goal.name = "CLOUDS";
 
-![Q 10](https://github.com/user-attachments/assets/87c8b6e5-1126-463a-8e08-e03a83449800)
+![Question 10](https://github.com/user-attachments/assets/4d0a146e-878b-45c7-b37e-8d86ce8b81a7)
+
