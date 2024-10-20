@@ -3,7 +3,8 @@
 select name from country where iso_country in(
 select iso_country from airport where name like 'Satsuma%');
 
-![Q1](https://github.com/user-attachments/assets/2998bcf4-007d-4be0-97e6-f1b866431100)
+![Q 1](https://github.com/user-attachments/assets/b888567f-7b2b-4a90-9d31-75580293e9f9)
+
 
 ## Question 2
 ### List the names of all airports in Monaco.
