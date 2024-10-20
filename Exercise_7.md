@@ -5,7 +5,8 @@ SET location = (SELECT ident FROM airport WHERE name = "Nottingham Airport"),
 co2_consumed = co2_consumed + 500
 WHERE screen_name = "Vesa";
 
-![Q1](https://github.com/user-attachments/assets/1a540512-bee4-463c-bccd-dfb2788769b3)
+![Q 1](https://github.com/user-attachments/assets/70544470-88a2-4de1-b166-1c364481a846)
+
 
 ## Question 2
 ### Prepare your own database for the project by deleting all dummy data relating to the game state. To maintain referential integrity, you have to delete the data in a specific order.
