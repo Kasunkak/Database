@@ -34,7 +34,8 @@ select min(co2_consumed)
 from game
 );
 
-![Q4](https://github.com/user-attachments/assets/2d7fe60f-63bc-4116-a03b-d595a52bc3e0)
+![Q 4](https://github.com/user-attachments/assets/75be9836-d9fc-4f72-be90-eb7a7af63654)
+
 
 ## Question 5
 ### Print out the names of all countries and the number of airports in each country. Order the results by the airport count in descending order. Only include the top 50 countries with the largest number of airports.
