@@ -42,7 +42,8 @@ select elevation_ft * 0.3048 as "elevation_m"
 from airport, game
 where location = ident and screen_name="Heini";
 
-![Q5](https://github.com/user-attachments/assets/9e87d52f-fa68-4ee9-a142-091f1cd870e3)
+![Ex3 Question 5](https://github.com/user-attachments/assets/cff1d4e0-e578-4fa4-9e92-1122cb667a15)
+
 
 ## Question 6
 ### What is the name of the airport Ilkka is currently at?!
