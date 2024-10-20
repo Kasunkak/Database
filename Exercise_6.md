@@ -12,7 +12,8 @@ select continent, count(*)
 from country
 group by continent;
 
-![Q2](https://github.com/user-attachments/assets/f7b3e513-6769-45a4-a827-c3f725a08879)
+![Q 2](https://github.com/user-attachments/assets/fad2a972-70f1-4bef-b356-f99e7c2df33b)
+
 
 ## Question 3
 ### List the names of all players and the number of weather goals they have achieved.
