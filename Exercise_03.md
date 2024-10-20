@@ -51,7 +51,8 @@ select airport.name as "name"
 from airport, game
 where location = ident and screen_name = "Ilkka";
 
-![Q6](https://github.com/user-attachments/assets/5cda5dc3-7ddc-4088-a7e5-2203323716f0)
+![Ex 3 Question 6](https://github.com/user-attachments/assets/798b8fcd-9ec3-4164-8723-1264d4f275e2)
+
 
 ## Question 7
 ### What is the name of the country Ilkka is currently at?
