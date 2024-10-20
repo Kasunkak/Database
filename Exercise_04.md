@@ -22,7 +22,8 @@ select screen_name, country.name
 from game inner join airport on game.location = airport.ident
 inner join country on country.iso_country=airport.iso_country;
 
-![Q 3](https://github.com/user-attachments/assets/57a61eb8-1bcd-4862-861b-00c45ec5b4dd)
+![Question 3](https://github.com/user-attachments/assets/752aa97d-6ebc-4940-81d7-c377ea620efe)
+
 
 ## Question 4
 ### List the names of all airports that include the string "Hels" and the names of any players that might currently be on any of the listed airports.
