@@ -69,7 +69,8 @@ select max(elevation_ft)
 from airport
 );
 
-![Q7](https://github.com/user-attachments/assets/2322dad4-c374-462e-aa0c-4c7fb01c3211)
+![Q 7](https://github.com/user-attachments/assets/4455fdbe-364f-4ea4-a199-599283b582aa)
+
 
 ## Question 8
 ### In which country does the highest airport reside in?
