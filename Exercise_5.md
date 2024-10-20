@@ -46,4 +46,5 @@ where game_id in (
 select id from game
 where screen_name = "Heini"));
 
-![Q5](https://github.com/user-attachments/assets/9fb51b8b-3424-4efe-82bb-27fec911eec1)
+![Q 5](https://github.com/user-attachments/assets/ae5cbd23-7294-4272-bc10-613f499e2a73)
+
