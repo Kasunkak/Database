@@ -15,7 +15,8 @@ SELECT airport.name as "airport name"
 FROM airport, country
 where airport.iso_country=country.iso_country and country.name = "France" AND airport.type = "large_airport";
 
-![Q2](https://github.com/user-attachments/assets/5bbf5148-c7d2-4964-a1a3-d682150ba6db)
+![Ex 3 Question 2](https://github.com/user-attachments/assets/4ff209a9-e943-43a3-bb48-85ffa80f8ec0)
+
 
 ## Question 3
 ### Write a query that lists the names and country names of all airports on Antartica.
