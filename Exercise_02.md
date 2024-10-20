@@ -3,7 +3,8 @@
 ### Write a query that prints out all the columns in the goal table.
 select*from goal;
 
-![Exercise 2 Q1](https://github.com/user-attachments/assets/bc1bdcd2-8e42-4273-9aa5-38e7b5787c17)
+![Ex 2 Question 1](https://github.com/user-attachments/assets/166d2344-f51f-414c-b535-a21de44bbb47)
+
 
 ## Question 2
 ### Write a query that prints out the name and type of each airport in Finland. The country code for Finland is: FI.
