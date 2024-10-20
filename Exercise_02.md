@@ -12,7 +12,8 @@ SELECT name, type
 FROM airports
 WHERE country_code = 'FI';
 
-![Exercise 2 Q2](https://github.com/user-attachments/assets/6adfe165-a50e-416e-ac44-4bf086afd651)
+![Ex2 Question 2](https://github.com/user-attachments/assets/ccaea60a-0154-4c39-a9b5-f986967ea8e8)
+
 
 ## Question 3
 ### Write a query that prints out the names of all Finnish airports in alphabetical order. The country code for Finland is: FI.
