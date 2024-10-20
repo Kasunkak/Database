@@ -60,7 +60,8 @@ select country.name as "name"
 from country, airport, game
 where location = ident and airport.iso_country = country.iso_country and screen_name = "Ilkka";
 
-![Q7](https://github.com/user-attachments/assets/57fa6278-a807-4aec-8161-9a07d18d3274)
+![EX 3 Question 7](https://github.com/user-attachments/assets/d6b30a44-a409-44e6-805f-d3cba95c2009)
+
 
 ## Question 8
 ### List the weather condition goals Heini as achieved so far.
