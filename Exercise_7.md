@@ -17,7 +17,8 @@ WHERE screen_name = "Vesa";
 ### Delete the dummy data from the goal_reached table.
 DELETE FROM goal_reached;
 
-![Q3](https://github.com/user-attachments/assets/e093cdb3-c3c3-40f6-b669-57282e11f204)
+![Q 3](https://github.com/user-attachments/assets/64541736-c3de-4b8c-8526-6f791087e700)
+
 
 ## Question 4
 ### Delete the data from the game table.
