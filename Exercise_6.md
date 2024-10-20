@@ -85,7 +85,8 @@ from airport
 )
 );
 
-![Q8](https://github.com/user-attachments/assets/77c7985a-de85-477f-b436-cf9fabe1fd04)
+![Q 8](https://github.com/user-attachments/assets/dc65984a-97df-454d-bd10-c35d9fcb2890)
+
 
 ## Question 9
 ### How many weather goals has Vesa achieved so far?
