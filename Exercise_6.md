@@ -107,4 +107,5 @@ select min(latitude_deg)
 from airport
 );
 
-![Q10](https://github.com/user-attachments/assets/4aa03bf5-ac07-4bfe-ae36-ea08aeaf5a0e)
+![Q 10](https://github.com/user-attachments/assets/4f4bf542-7b3a-46a4-b516-fb6d63338347)
+
