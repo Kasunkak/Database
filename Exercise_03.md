@@ -75,7 +75,8 @@ select name from goal, game, goal_reached where game.id=game_id and goal.id=goal
 select airport.name from airport, goal_reached, goal, game
 where ident = location and goal.id = goal_reached.goal_id and game.id = goal_reached.game_id and screen_name = "Ilkka"
 
-![Q 9](https://github.com/user-attachments/assets/0304f29b-59e9-4928-b7f8-887825af6314)
+![Question 9](https://github.com/user-attachments/assets/e6f34812-f37a-4f47-a348-3c3d4140f7ca)
+
 
 ## Question 10
 ### Print out the name of the country where Ilkka achieved the clouds goal.
