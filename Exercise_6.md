@@ -22,7 +22,8 @@ from game, goal_reached
 where id = game_id
 group by screen_name;
 
-![Q3](https://github.com/user-attachments/assets/422da628-d45b-41af-a019-a4aed60d30b4)
+![Q 3](https://github.com/user-attachments/assets/32e1ed60-887d-437c-ad23-0945afd53b7c)
+
 
 ## Question 4
 ### Which player has the smallest carbon foot print?
