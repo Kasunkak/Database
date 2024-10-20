@@ -57,7 +57,8 @@ where airport.iso_country = country.iso_country
 group by country.iso_country
 having count(*) > 1000;
 
-![Q6](https://github.com/user-attachments/assets/006660cb-b7e6-4334-910b-ec1261a8b8c7)
+![Q 6](https://github.com/user-attachments/assets/8020024b-4a7d-43e0-b522-a6a6467903eb)
+
 
 ## Question 7
 ### Print out the name of the highest airport in the world.
