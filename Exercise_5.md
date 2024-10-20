@@ -13,7 +13,8 @@ where iso_country in(
 select iso_country from country
 where name = 'Monaco');
 
-![Q2](https://github.com/user-attachments/assets/8d8c24af-fc5d-4f7e-a937-2ee3b41db22f)
+![Q 2](https://github.com/user-attachments/assets/7c62059d-79f1-421d-9fd5-2effa25ac2a5)
+
 
 ## Question 3
 ### List the names of all players who have achieved the clouds goal.
