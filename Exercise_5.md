@@ -34,7 +34,8 @@ select name from country
 where iso_country not in(
 select iso_country from airport);
 
-![Q4](https://github.com/user-attachments/assets/a22da6bb-f39e-4fbf-ba67-6b757af87b6b)
+![Q 4](https://github.com/user-attachments/assets/d3804b8f-4adf-43de-8225-04b5e337b179)
+
 
 ## Question 5
 ### Which weather goals has Heini not achieved yet?
