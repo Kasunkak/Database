@@ -24,4 +24,5 @@ DELETE FROM goal_reached;
 ### Delete the data from the game table.
 DELETE FROM game;
 
-![Q4](https://github.com/user-attachments/assets/48270410-c4d1-4fd7-b419-3c096f2f4707)
+![Q 4](https://github.com/user-attachments/assets/499ccd0d-c9b4-42c4-879c-23b1e9052c33)
+
