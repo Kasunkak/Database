@@ -40,4 +40,5 @@ select name, screen_name
 from goal left join goal_reached on goal.id = goal_reached.goal_id
 left join game on goal_reached.game_id = game.id;
 
-![Q 5](https://github.com/user-attachments/assets/7831396f-edf3-4f44-83ee-db9953597484)
+![Question 5](https://github.com/user-attachments/assets/ecd7e036-bb73-45db-9d1b-7761e586bd6e)
+
