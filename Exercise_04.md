@@ -5,7 +5,8 @@ from country inner join airport on country.iso_country=airport.iso_country
 where country.name="Finland"
 and airport.scheduled_service="yes";
 
-![Q 1](https://github.com/user-attachments/assets/6ebc26ee-58de-44c5-8ae4-85636675336c)
+![Question 1](https://github.com/user-attachments/assets/4fba05c9-1f38-4ab6-b94e-f46b3d2b347d)
+
 
 ## Question 2
 ### List the names and current airports of all players.
