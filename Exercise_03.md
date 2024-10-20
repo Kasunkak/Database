@@ -6,7 +6,8 @@ SELECT country.name as "country name", airport.name as "airport name"
 FROM country, airport
 WHERE country.iso_country = airport.iso_country and country.name = "Iceland";
 
-![Q1](https://github.com/user-attachments/assets/cc784c20-fe88-43bc-8af8-89306bc0e446)
+![EX 3 Question 1](https://github.com/user-attachments/assets/690dec14-dded-4d18-97e5-a3fe5981eb9a)
+
 
 ## Question 2
 ### Write a query  to list the names of all large airports in France. Assign the name column the alias "airport name".
