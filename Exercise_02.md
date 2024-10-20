@@ -41,7 +41,8 @@ SELECT name
 FROM country
 WHERE name LIKE 'F%';
 
-![Exercise 2 Q5](https://github.com/user-attachments/assets/7ccdded6-7331-4461-976f-38863976790b)
+![Ex2 Question 5](https://github.com/user-attachments/assets/1f3d3ac6-a01d-45f9-892e-e557c0f32dd1)
+
 
 ## Question 6
 ### Write a query that prints out all country names in the country table that include the letter F.
