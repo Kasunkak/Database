@@ -67,6 +67,7 @@ where location = ident and airport.iso_country = country.iso_country and screen_
 ### List the weather condition goals Heini as achieved so far.
 select name from goal, game, goal_reached where game.id=game_id and goal.id=goal_id and screen_name="Heini";
 
+![Question 8](https://github.com/user-attachments/assets/996c6964-55a9-4837-a7cf-bba36a723f34)
 
 
 ## Question 9
