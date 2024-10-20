@@ -3,7 +3,8 @@
 select max(elevation_ft)
 from airport;
 
-![Q1](https://github.com/user-attachments/assets/1569277c-f673-4fc3-b0c5-5ee746e4f5e6)
+![Q 1](https://github.com/user-attachments/assets/92f414a0-a0fe-491b-97ca-a3f276f86361)
+
 
 ## Question 2
 ### Write a query that lists all continents and the number of countries on them.
