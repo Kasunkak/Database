@@ -95,7 +95,8 @@ from game, goal_reached
 where id = game_id and screen_name = "Vesa"
 group by screen_name;
 
-![Q9](https://github.com/user-attachments/assets/0a204e05-5e72-4ddb-93d1-1d1f486aea02)
+![Q 9](https://github.com/user-attachments/assets/b2608b63-b45f-4c4b-8712-b2b8aec6f6f2)
+
 
 ## Question 10
 ### What is the name of the airport that resides closest to the polar regions?
