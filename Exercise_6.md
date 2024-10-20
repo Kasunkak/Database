@@ -46,7 +46,8 @@ group by country.iso_country
 order by count(*) desc
 limit 50;
 
-![Q5](https://github.com/user-attachments/assets/cc276088-3632-4b46-86a2-2e99743abf16)
+![Q 5](https://github.com/user-attachments/assets/8b059792-75d9-4fb7-a43e-1cb45d70abcc)
+
 
 ## Question 6
 ### List the countries with more than 1000 airports. Use the iso_country field in the query.
