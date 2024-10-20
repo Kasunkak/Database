@@ -25,7 +25,8 @@ where goal_id in (
 select id from goal
 where name = "CLOUDS"));
 
-![Q3](https://github.com/user-attachments/assets/3e40018a-2e42-4fcd-becc-0a2f9164fce4)
+![Q 3](https://github.com/user-attachments/assets/5ba4be67-7b6d-4645-9e00-78ae675a079b)
+
 
 ## Question 4
 ### List all countries that have no airports.
