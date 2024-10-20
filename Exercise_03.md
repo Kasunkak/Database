@@ -33,7 +33,8 @@ SELECT elevation_ft
 from airport, game
 where location = ident and screen_name="Heini";
 
-![Q4](https://github.com/user-attachments/assets/8e33238e-6351-4738-bf94-2127c83900ec)
+![Ex 3 Question 4](https://github.com/user-attachments/assets/4e6ee499-55f3-4e5f-920c-03adbf8bf4ca)
+
 
 ## Question 5
 ### What is the height of Heini's current location measured from the sea level? Print out the result in meters and assign the result the alias elevation_m. One feet corresponds to 0.3048 meters.
